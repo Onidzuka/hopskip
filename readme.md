@@ -144,7 +144,7 @@ CONTROLLERS/CLASSES:
    Name | Type | Description | Example | Notes
     --- | --- | --- | --- | ---
    repeat_until | string | date until ride repeats | "09/30/2018" | 
-   repeat_on | array | week days to repeat | ["Monday", "Friday", "Sunday"] | Requred if repeat_until  present
+   repeat_on | array | week days to repeat | ["Monday", "Friday", "Sunday"] | Required if repeat_until  present
  
   Format:
  
