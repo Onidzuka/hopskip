@@ -235,3 +235,4 @@ I would add tests for all normal and abnormal cases.
 
 ####  5. Provide performance challenges and how you would address them.
 
+Creating and cancelling repeating rides might take a while depending on amount of data. I would use background processors like sidekiq. 
